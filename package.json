@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hankbao/electron-notify"
+    "url": "https://github.com/dubyajaysmith/electron-notify"
   },
   "devDependencies": {
   }
